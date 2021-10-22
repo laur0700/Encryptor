@@ -1,0 +1,2 @@
+- Pentru criptare introduceti cuvintele pe care doriti sa le criptati in fisierul "input.txt" separate prin cate un spatiu
+- Pentru decriptare rulati programul cu argumentele: crypt.txt keys.txt
